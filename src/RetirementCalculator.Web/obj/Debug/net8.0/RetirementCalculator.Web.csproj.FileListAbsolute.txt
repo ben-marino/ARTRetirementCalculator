@@ -30,3 +30,12 @@
 /home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/obj/Debug/net8.0/RetirementCalculator.Web.pdb
 /home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/obj/Debug/net8.0/RetirementCalculator.Web.genruntimeconfig.cache
 /home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/obj/Debug/net8.0/ref/RetirementCalculator.Web.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/obj/Debug/net8.0/RetirementCalculator.Web.MvcApplicationPartsAssemblyInfo.cs
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/bin/Debug/net8.0/RetirementCalculator.Web.staticwebassets.runtime.json
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll

@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "ONDemlMN3e8QLYtQcsgJe3u18aZZ89f+L1zs954Bu5M=",
+  "Hash": "MzBxjEABqeM4W5htj4bbxbSKMAcEcT5UWg1h+130QcA=",
   "Source": "RetirementCalculator.Web",
   "BasePath": "_content/RetirementCalculator.Web",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "RetirementCalculator.Web/wwwroot",
+      "Source": "RetirementCalculator.Web",
+      "ContentRoot": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/wwwroot/",
+      "BasePath": "_content/RetirementCalculator.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/wwwroot/app.js",
+      "SourceId": "RetirementCalculator.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/wwwroot/",
+      "BasePath": "_content/RetirementCalculator.Web",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.js"
+    },
+    {
+      "Identity": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/wwwroot/index.html",
+      "SourceId": "RetirementCalculator.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/wwwroot/",
+      "BasePath": "_content/RetirementCalculator.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
 }
