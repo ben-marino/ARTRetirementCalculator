@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RetirementCalculator.Application/1.0.0": {
+        "dependencies": {
+          "RetirementCalculator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RetirementCalculator.Application.dll": {}
+        }
+      },
+      "RetirementCalculator.Domain/1.0.0": {
+        "runtime": {
+          "RetirementCalculator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RetirementCalculator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RetirementCalculator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "RetirementCalculator.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RetirementCalculator.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RetirementCalculator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RetirementCalculator.Domain/1.0.0": {
+      "type": "project",
+      "path": "../RetirementCalculator.Domain/RetirementCalculator.Domain.csproj",
+      "msbuildProject": "../RetirementCalculator.Domain/RetirementCalculator.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "RetirementCalculator.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/ben/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/RetirementCalculator.Application.csproj",
+      "projectName": "RetirementCalculator.Application",
+      "projectPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/RetirementCalculator.Application.csproj",
+      "packagesPath": "/home/ben/.nuget/packages/",
+      "outputPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/ben/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/RetirementCalculator.Domain.csproj": {
+              "projectPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/RetirementCalculator.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

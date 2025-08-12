@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/RetirementCalculator.Web.csproj": {}
+  },
+  "projects": {
+    "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/RetirementCalculator.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/RetirementCalculator.Application.csproj",
+        "projectName": "RetirementCalculator.Application",
+        "projectPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/RetirementCalculator.Application.csproj",
+        "packagesPath": "/home/ben/.nuget/packages/",
+        "outputPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ben/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/RetirementCalculator.Domain.csproj": {
+                "projectPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/RetirementCalculator.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/RetirementCalculator.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/RetirementCalculator.Domain.csproj",
+        "projectName": "RetirementCalculator.Domain",
+        "projectPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/RetirementCalculator.Domain.csproj",
+        "packagesPath": "/home/ben/.nuget/packages/",
+        "outputPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ben/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/RetirementCalculator.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/RetirementCalculator.Web.csproj",
+        "projectName": "RetirementCalculator.Web",
+        "projectPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/RetirementCalculator.Web.csproj",
+        "packagesPath": "/home/ben/.nuget/packages/",
+        "outputPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ben/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/RetirementCalculator.Application.csproj": {
+                "projectPath": "/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/RetirementCalculator.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

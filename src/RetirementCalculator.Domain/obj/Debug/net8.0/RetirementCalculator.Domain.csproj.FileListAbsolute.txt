@@ -1,0 +1,12 @@
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/bin/Debug/net8.0/RetirementCalculator.Domain.deps.json
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/bin/Debug/net8.0/RetirementCalculator.Domain.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/bin/Debug/net8.0/RetirementCalculator.Domain.pdb
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/Debug/net8.0/RetirementCalculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/Debug/net8.0/RetirementCalculator.Domain.AssemblyInfoInputs.cache
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/Debug/net8.0/RetirementCalculator.Domain.AssemblyInfo.cs
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/Debug/net8.0/RetirementCalculator.Domain.csproj.CoreCompileInputs.cache
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/Debug/net8.0/RetirementCalculator.Domain.sourcelink.json
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/Debug/net8.0/RetirementCalculator.Domain.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/Debug/net8.0/refint/RetirementCalculator.Domain.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/Debug/net8.0/RetirementCalculator.Domain.pdb
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Domain/obj/Debug/net8.0/ref/RetirementCalculator.Domain.dll

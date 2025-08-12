@@ -1,0 +1,16 @@
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/bin/Debug/net8.0/RetirementCalculator.Application.deps.json
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/bin/Debug/net8.0/RetirementCalculator.Application.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/bin/Debug/net8.0/RetirementCalculator.Application.pdb
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/bin/Debug/net8.0/RetirementCalculator.Domain.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/bin/Debug/net8.0/RetirementCalculator.Domain.pdb
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/RetirementCalculator.Application.csproj.AssemblyReference.cache
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/RetirementCalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/RetirementCalculator.Application.AssemblyInfoInputs.cache
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/RetirementCalculator.Application.AssemblyInfo.cs
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/RetirementCalculator.Application.csproj.CoreCompileInputs.cache
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/RetirementCalculator.Application.sourcelink.json
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/RetirementCalculator.Application.csproj.CopyComplete
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/RetirementCalculator.Application.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/refint/RetirementCalculator.Application.dll
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/RetirementCalculator.Application.pdb
+/home/ben/Documents/ARTRetirementCalculator/src/RetirementCalculator.Application/obj/Debug/net8.0/ref/RetirementCalculator.Application.dll
