@@ -1,10 +1,26 @@
 namespace RetirementCalculator.Domain;
 
+/// <summary>
+/// Implements Australian superannuation retirement savings calculations with accurate tax and contribution modeling.
+/// </summary>
 public class SuperannuationCalculator : IRetirementCalculator
 {
+    /// <summary>
+    /// Tax rate applied to concessional superannuation contributions (15%).
+    /// </summary>
     private const decimal CONTRIBUTION_TAX = 0.15m;
+    
+    /// <summary>
+    /// Annual cap for concessional superannuation contributions in Australian dollars.
+    /// </summary>
     private const decimal CONCESSIONAL_CAP = 27500m;
     
+    /// <summary>
+    /// Calculates comprehensive retirement savings projections using Australian superannuation rules.
+    /// Includes employer contributions, contribution caps, tax implications, and compound growth.
+    /// </summary>
+    /// <param name="request">The projection parameters including demographics, financial details, and growth assumptions.</param>
+    /// <returns>Detailed projection results with yearly breakdown and inflation-adjusted values.</returns>
     public ProjectionResult CalculateProjection(ProjectionRequest request)
     {
         var yearlyProjections = new List<YearlyProjection>();
