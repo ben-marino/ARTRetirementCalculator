@@ -100,3 +100,15 @@
 /home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/obj/Debug/net8.0/RetirementCalculator.Tests.pdb
 /home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/obj/Debug/net8.0/RetirementCalculator.Tests.genruntimeconfig.cache
 /home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/obj/Debug/net8.0/ref/RetirementCalculator.Tests.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/FluentAssertions.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/RetirementCalculator.Application.dll
+/home/ben/Documents/ARTRetirementCalculator/tests/RetirementCalculator.Tests/bin/Debug/net8.0/RetirementCalculator.Application.pdb
