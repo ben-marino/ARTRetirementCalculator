@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetirementCalculator.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d28405950884c7d0e11707c8371d86a46294c92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dad93b9f5851b1703531881cfc2bc44eac0353d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetirementCalculator.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetirementCalculator.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
