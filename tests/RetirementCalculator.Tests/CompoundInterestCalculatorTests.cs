@@ -93,9 +93,9 @@ public class CompoundInterestCalculatorTests
     }
     
     [Theory]
-    [InlineData(5.0, 10, 12578.95)] // Conservative return
-    [InlineData(7.5, 10, 14147.09)] // Balanced return  
-    [InlineData(10.0, 10, 15937.42)] // Growth return
+    [InlineData(5.0, 10, 16288.95)] // Conservative return
+    [InlineData(7.5, 10, 20610.32)] // Balanced return  
+    [InlineData(10.0, 10, 25937.42)] // Growth return
     public void Calculate_WithDifferentReturnRates_ReturnsExpectedValues(
         double rate, int years, double expectedApproximate)
     {
