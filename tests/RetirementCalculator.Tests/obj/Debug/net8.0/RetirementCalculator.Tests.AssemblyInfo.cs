@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetirementCalculator.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb7702f4305673d2257d9f3d9ad33301fc57915b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+749e4ca7bfb22fa8a675065b9b2e24ff17c93389")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetirementCalculator.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetirementCalculator.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
